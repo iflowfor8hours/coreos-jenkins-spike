@@ -1,0 +1,7 @@
+forge "https://forge.puppetlabs.com"
+
+mod 'jenkins', 
+  :git => 'https://github.com/iflowfor8hours/puppet-jenkins.git',
+  :ref => 'next'
+
+mod 'stankevich/python'

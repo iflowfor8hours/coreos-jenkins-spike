@@ -1,0 +1,5 @@
+SI-SMOKE-PREPROD
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+install python and pip... moving to puppet managed even though ansible would be easier...
