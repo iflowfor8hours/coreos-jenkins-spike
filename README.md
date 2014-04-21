@@ -1,5 +1,5 @@
 coreos-jenkins-spike
 ====================
 
-Spiking out using coreos as a docker host for jenkins slaves. 
-
+=======
+Spiking out the idea of using docker containers running on coreos to create jenkins slaves.
